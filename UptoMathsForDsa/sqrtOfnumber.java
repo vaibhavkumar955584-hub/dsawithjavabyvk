@@ -25,6 +25,6 @@ public class sqrtOfnumber {
                     ans-=incr;
                     incr/=10;
                 }
-        return ans;
+        return (int)ans;
     }
 }
