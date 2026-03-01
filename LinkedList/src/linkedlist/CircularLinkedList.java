@@ -1,10 +1,11 @@
+package linkedlist;
 
-public class CLL {
+public class CircularLinkedList {
 
     private Node head;
     private Node tail;
 
-    public CLL() {
+    public CircularLinkedList() {
         this.head = null;
         this.tail = null;
     }
@@ -41,7 +42,7 @@ public class CLL {
             return;
         }
 
-        if (head == tail){
+        if (head == tail) {
             head = null;
             tail = null;
             return;
