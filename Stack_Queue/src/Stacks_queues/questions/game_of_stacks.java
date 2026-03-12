@@ -1,4 +1,4 @@
-package Stacks.questions;
+package Stacks_queues.questions;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package Stacks;
+package Stacks_queues;
 
 
 public class StackMain {
